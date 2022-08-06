@@ -4,4 +4,11 @@
 This is my personal account.
 My work account for MassMutual is @Andrew-Sheridan.
 
-More to come...
+GitHub:
+- Personal: https://github.com/andrewasheridan
+- MassMutual: https://github.com/Andrew-Sheridan
+
+LinkedIn:
+- https://www.linkedin.com/in/andrewasheridan
+
+
