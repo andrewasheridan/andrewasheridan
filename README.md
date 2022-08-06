@@ -10,5 +10,3 @@ GitHub:
 
 LinkedIn:
 - https://www.linkedin.com/in/andrewasheridan
-
-
