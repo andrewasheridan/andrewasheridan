@@ -1,12 +1,10 @@
 # Hi there 👋
 
-## I'm a Data Platform Engineer in Boston, Massachusetts
-This is my personal account.
-My work account for MassMutual is @Andrew-Sheridan.
+I'm a Software Engineer in Boston, Massachusetts
 
 GitHub:
-- Personal: https://github.com/andrewasheridan
-- MassMutual: https://github.com/Andrew-Sheridan
+- Current: https://github.com/andrewasheridan
+- Previous: https://github.com/Andrew-Sheridan
 
 LinkedIn:
 - https://www.linkedin.com/in/andrewasheridan
